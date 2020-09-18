@@ -1,4 +1,5 @@
-# WheelOfFortune
-CSCE 306 - First Homework.
-Had trouble figuring Github out. But now I think I understand how to upload my progress.
-The program is completed and to my knowledge, fully functional.
+Name: Austin Krause.
+Homework: Programming Assignment #1.
+Class: CSCE 306.
+Description: Wheel Of Fortune - A game where
+two users guess phrases and earn money to win.
